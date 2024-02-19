@@ -1,2 +1,2 @@
-# dsc46-ua
+# Daniel Segurado Climent
 Mi repositorio personal
